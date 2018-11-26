@@ -1,0 +1,5 @@
+com\rest\model\Response.class
+com\rest\service\PersonServiceImpl.class
+com\rest\dao\PersonDao.class
+com\rest\model\Person.class
+com\rest\service\PersonService.class
